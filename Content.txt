@@ -1,0 +1,728 @@
+# MASTER PROMPT — Professional Bilingual Tour Guide CV with Certificate Image Placeholders
+
+## 1. YOUR ROLE
+
+Act as a senior HR recruiter, tourism-sector CV specialist, bilingual Arabic-English resume writer, ATS optimization expert, and professional document designer.
+
+Create two separate, professional CVs for Mohamed Abdel-Awad Ahmed Ibrahim, tailored to an entry-level Tour Guide / Tourism Assistant position.
+
+Deliverables:
+
+1. Arabic CV — السيرة الذاتية باللغة العربية.
+2. English CV — Professional English Resume.
+
+The candidate lives in Assiut, Egypt. His supplied qualifications include a Bachelor's degree in Physical Education from Assiut University, computer and office software training, English-language courses, translation-related training, educational credentials, and historical sports achievements.
+
+No verified tourism employment history, practical guiding experience, or valid tourism guide license has been supplied.
+
+Your task is to highlight the candidate's genuine qualifications and transferable skills without inventing tourism experience, professional licenses, language proficiency, or qualifications.
+
+IMPORTANT: This CV must be appropriate for tourism-related applications while remaining honest about the candidate's current professional status.
+
+If the target employer requires a licensed tour guide, do not imply that the candidate meets that requirement unless valid documentation is supplied. You may tailor the CV toward tourism assistant, tour operations assistant, visitor support, or entry-level tourism positions when appropriate.
+
+---
+
+## 2. PERSONAL INFORMATION
+
+Arabic full name:
+محمد عبد العواض أحمد إبراهيم
+
+English name:
+Mohamed Abdel-Awad Ahmed Ibrahim
+
+Phone:
+01004851309
+
+Email:
+mohamedabdelawad55@gmail.com
+
+Location:
+Assiut, Egypt
+
+Use the same contact details in both CVs.
+
+Do not invent a LinkedIn profile, portfolio, alternative phone number, or additional contact details.
+
+Do not include the national ID number, military number, or certificate identification numbers.
+
+Do not include a full home address, date of birth, or marital status unless specifically requested and relevant.
+
+---
+
+## 3. TARGET POSITION
+
+Primary English title:
+Tour Guide | Tourism Assistant
+
+Primary Arabic title:
+مرشد سياحي | مساعد سياحي
+
+Use "Tour Guide" as the target position only when appropriate for the vacancy. Do not represent the candidate as a licensed or experienced tour guide without supporting evidence.
+
+If the target job advertisement requires an official guiding license, explain that the supplied documents do not establish that requirement has been met.
+
+Alternative job titles may include:
+
+- Tourism Assistant.
+- Visitor Support Assistant.
+- Tour Operations Assistant.
+- Guest Relations Assistant.
+- Tourism Customer Service Assistant.
+
+Select the most appropriate title based on the actual vacancy. Do not place every alternative title in the CV simultaneously.
+
+---
+
+## 4. EDUCATIONAL QUALIFICATION
+
+The candidate supplied information about a Bachelor's degree from Assiut University, Faculty of Physical Education.
+
+Qualification:
+Bachelor's degree in Physical Education.
+
+Institution:
+Assiut University, Faculty of Physical Education, Egypt.
+
+Graduation year:
+2010, according to the supplied official graduation record.
+
+Overall grade:
+Good.
+
+Percentage:
+74.68%, according to the supplied record.
+
+The documents contain inconsistent specialization descriptions, including Teaching and Sports Training.
+
+Instructions:
+
+- Use 2010 as the graduation year unless the official certificate establishes otherwise.
+- Do not invent or combine conflicting specializations.
+- If the specialization cannot be confirmed, write "Bachelor of Physical Education, Assiut University, 2010."
+- Do not describe this degree as a tourism or archaeology qualification.
+- Do not imply that it grants a tour guide license.
+
+---
+
+## 5. COMPUTER AND OFFICE SOFTWARE TRAINING
+
+The candidate supplied the following courses from the Computer and Information Technology Training Center, Assiut Governorate General Administration.
+
+### A. Word Processing — WinWord 2010
+
+Official title:
+Int. WinWord 2010 / Word Processing Course.
+
+Date:
+January 2014.
+
+Grade:
+Excellent.
+
+Relevant training:
+- Microsoft Word 2010.
+- Word processing.
+- Basic document preparation and text formatting.
+
+### B. PowerPoint and Excel 2010
+
+Official title:
+PowerPoint + Excel 2010 Course.
+
+Date:
+January 2014.
+
+Grade:
+Excellent.
+
+Relevant training:
+- Microsoft Excel 2010.
+- Microsoft PowerPoint 2010.
+- Basic spreadsheet and presentation skills.
+
+### C. Information Technology and Internet
+
+Official title:
+I.T + Internet Course.
+
+Date:
+February 2014.
+
+Grade:
+Excellent.
+
+Relevant training:
+- Basic IT.
+- Internet use.
+- Computer literacy.
+
+### D. Windows 7
+
+Official title:
+Computer Technology and Windows 7 Course.
+
+Date:
+January 2014.
+
+Grade:
+Excellent.
+
+Relevant training:
+- Windows operating system familiarity.
+- Basic computer operations.
+
+### E. Introduction to Databases — Access 2010
+
+Official title:
+Int. Access 2010.
+
+Date:
+February 2014.
+
+Grade:
+Excellent.
+
+Relevant training:
+- Introductory database concepts.
+- Microsoft Access 2010 training.
+
+Do not claim advanced software expertise or current practical proficiency unless verified.
+
+Group these certificates under:
+
+English: Computer & Office Software Training.
+
+Arabic: دورات الحاسب الآلي وبرامج المكتب.
+
+Preserve the original completion dates. Do not imply these courses were completed recently.
+
+---
+
+## 6. ENGLISH LANGUAGE AND COMMUNICATION TRAINING
+
+The candidate supplied the following certificates.
+
+### A. Integrated English Diploma
+
+Official title:
+Integrated English Diploma.
+
+Issuing organization:
+Future Association for Environmental Protection and Community Development, according to the supplied information.
+
+Date:
+1 July 2013.
+
+### B. General English Course — Level 4, Beginner
+
+Official title:
+Level 4 — Beginner, General Course of English.
+
+Issuing organization:
+Computer Science Training Center, affiliated with the Information and Decision Support Center, Sohag Governorate.
+
+Period:
+10 July 2023 to 10 September 2023.
+
+Grade:
+Excellent.
+
+IMPORTANT: This certificate states "Beginner." Do not use it as evidence of advanced or fluent English.
+
+### C. English grammar
+
+Official title:
+The Professional Continuing Education Course in Grammar.
+
+Printed date:
+15 December 2017, described in the supplied information as an expiry or accreditation date.
+
+### D. English conversation
+
+Official title:
+The Professional Continuing Education Course in Conversation.
+
+Printed date:
+15 December 2017, described as an expiry or accreditation date.
+
+### E. Translation
+
+Official title:
+The Professional Continuing Education Course in Translation.
+
+Printed date:
+15 December 2017, described as an expiry or accreditation date.
+
+### F. Phonetics
+
+Official title:
+The Professional Continuing Education Course in Phonetics.
+
+Printed date:
+15 December 2017, described as an expiry or accreditation date.
+
+### G. Free discussion
+
+Official title:
+The Professional Continuing Education Course in Free Discussion.
+
+Printed date:
+15 December 2017, described as an expiry or accreditation date.
+
+### H. Vocabulary
+
+Official title:
+The Professional Continuing Education Course in Vocabulary.
+
+Printed date:
+15 December 2017, described as an expiry or accreditation date.
+
+### I. American accent
+
+Official title:
+The Professional Continuing Education Course in American Accent.
+
+Printed date:
+15 December 2017, described as an expiry or accreditation date.
+
+### J. Role play
+
+Official title:
+The Professional Continuing Education Course in Role Play.
+
+Issuing organization:
+American Cultural Center, according to the supplied information.
+
+Printed date:
+15 December 2017, described as an expiry or accreditation date.
+
+### Rules
+
+- Preserve the original course titles wherever possible.
+- Do not invent the provider of courses when it is unclear.
+- Do not represent old expiry dates as course completion dates.
+- Do not claim a CEFR level such as B2 or C1 without evidence.
+- Do not claim professional translation experience based on a course alone.
+- Group related certificates into a concise section titled "English Language & Communication Training."
+- Prioritize conversation, grammar, vocabulary, phonetics, translation, discussion, and role-play training when relevant.
+- Do not include certificate ID codes.
+
+Arabic heading:
+دورات اللغة الإنجليزية والتواصل.
+
+English heading:
+English Language & Communication Training.
+
+---
+
+## 7. EDUCATIONAL AND OTHER CREDENTIALS
+
+### Educational Expert
+
+Arabic title:
+خبير تربوي.
+
+English title:
+Educational Expert.
+
+Issuing organization:
+Information Technology Center associated with the Educational Administration of El-Badari, Assiut Governorate, according to the supplied information.
+
+The credential's exact professional or accreditation status has not been independently established.
+
+Do not claim a teaching license, recognized professional accreditation, or tourism qualification based on this document.
+
+Include only if the document can be represented accurately and is relevant to the position.
+
+### Educational Consultant in International Schools
+
+A card contains the title "Educational Consultant in International Schools."
+
+Branch:
+Assiut.
+
+Printed expiry date:
+1 July 2014.
+
+The information does not establish an employer, work history, actual responsibilities, or current validity.
+
+Do not automatically list this as employment.
+
+### English Translator
+
+A card contains the title "English Translator."
+
+Branch:
+Assiut.
+
+Printed expiry date:
+1 July 2014.
+
+The issuing authority and current validity have not been established.
+
+Do not present this as a current translation license or verified professional employment.
+
+If clarification is necessary, ask the candidate. Otherwise, omit these uncertain claims from the final CV.
+
+---
+
+## 8. MILITARY SERVICE
+
+The supplied military service certificate indicates that military service was completed honorably.
+
+If relevant to the vacancy, the candidate may list "Completed military service" / "أدى الخدمة العسكرية" in the additional information section.
+
+Do not include national ID or military numbers.
+
+Do not describe the candidate as exempt from military service.
+
+Omit this section if it does not add value to the application.
+
+---
+
+## 9. SPORTS ACHIEVEMENTS
+
+The candidate supplied these historical achievements:
+
+### A. Athletics
+
+Organization:
+Egyptian Athletics Federation — Assiut Region.
+
+Achievement:
+Second place in the under-16 regional shot put competition.
+
+Recorded result:
+13.6 metres.
+
+Date:
+30 June 2004.
+
+### B. Bodybuilding
+
+Organization:
+Egyptian Bodybuilding Federation — Assiut Branch.
+
+Achievement:
+Third place in the under-19 regional competition, 75 kg category.
+
+Season:
+2006/2007 according to the supplied information.
+
+A certificate date of 21 July 2006 was also provided and may require verification.
+
+Rules:
+
+- Include these achievements only if they strengthen the application.
+- Do not prioritize old sports achievements over relevant qualifications.
+- Do not imply that the candidate is currently an athlete, sports coach, or sports administrator based solely on these certificates.
+- For general tourism positions, these achievements may be omitted to preserve space.
+
+---
+
+## 10. SKILLS SECTION — BUILD FROM EVIDENCE
+
+Develop a concise, relevant skills section using the supplied certificates and any additional verified experience.
+
+### Computer and office skills
+
+Potentially supportable through training:
+
+- Microsoft Word 2010 — trained.
+- Microsoft Excel 2010 — trained.
+- Microsoft PowerPoint 2010 — trained.
+- Microsoft Access 2010 — introductory training.
+- Windows operating system familiarity.
+- Basic IT and Internet use.
+- Word processing.
+- Basic document formatting.
+- Introductory spreadsheet and database knowledge.
+
+Do not claim advanced proficiency or current practical ability unless confirmed.
+
+### English-language training
+
+Potentially supportable as completed training:
+
+- English Grammar.
+- English Conversation.
+- English Vocabulary.
+- English Phonetics.
+- Translation Fundamentals.
+- Discussion and Role Play.
+- American Accent Training.
+
+These should be presented as areas of training, not proof of fluency or professional translation competence.
+
+### Transferable skills
+
+Consider the following only when supported by the candidate's real abilities:
+
+- Verbal Communication.
+- Written Communication.
+- Interpersonal Communication.
+- Organization.
+- Attention to Detail.
+- Time Management.
+- Teamwork.
+- Problem-Solving.
+- Professional Conduct.
+- Willingness to Learn.
+
+### Tourism-related skills
+
+Do not claim practical experience in any of the following unless confirmed:
+
+- Tour Planning.
+- Tour Guiding.
+- Historical Interpretation.
+- Archaeological Site Interpretation.
+- Tourism Itinerary Development.
+- Group Management.
+- Visitor Assistance.
+- Guest Relations.
+- Travel Booking.
+- Hotel Reservation Systems.
+- Destination Knowledge.
+- Foreign-Language Guiding.
+- Cultural Heritage Interpretation.
+
+The supplied information does not establish specialized knowledge of Egyptian history, archaeology, historical monuments, or professional tour operations.
+
+If the candidate confirms genuine familiarity with local attractions, communication with visitors, trip planning, or similar activities, incorporate that information accurately.
+
+Do not present generic personality traits as certified skills.
+
+---
+
+## 11. PROFESSIONAL SUMMARY
+
+Write a concise professional summary in Arabic and English tailored to an entry-level tourism-related position.
+
+Emphasize:
+
+- The candidate's university education.
+- Computer and office software training.
+- English-language and communication-related training.
+- Relevant transferable abilities.
+- Interest in contributing to tourism-related services.
+- Willingness to learn and develop tourism-sector knowledge.
+
+Do not claim previous tourism experience, professional tour guiding, fluency in English, or a current guiding license without evidence.
+
+Do not make the candidate appear qualified for a regulated role if a required license is missing.
+
+Use natural professional English and formal, polished Arabic.
+
+Avoid generic clichés, exaggerated claims, and unsupported statements such as "experienced tour guide" or "expert in Egyptian history."
+
+---
+
+## 12. CERTIFICATE IMAGE PLACEHOLDERS — REQUIRED
+
+I want a dedicated space for certificate images in the CV design so that I can later insert scanned images or photographs of the actual certificates.
+
+This is an important design requirement.
+
+However, the primary CV must remain ATS-friendly.
+
+Create two complementary document components for each language:
+
+### Component A — ATS CV
+
+The main CV must use a single-column, text-based layout with no embedded certificate-image gallery.
+
+It should contain a concise list of relevant qualifications and courses.
+
+This is the version intended for ATS portals and online job applications.
+
+### Component B — Certificate Portfolio Appendix
+
+Create a separate, visually organized certificate appendix for the Arabic and English versions.
+
+This appendix must contain actual empty image placeholders, not invented certificate images.
+
+For each certificate or logical certificate group, create a clearly outlined rectangular image area with:
+
+- A neutral placeholder background.
+- A thin, subtle border.
+- A short Arabic label in the Arabic appendix.
+- A short English label in the English appendix.
+- A clear indication that the image should be inserted later.
+- Enough space for the full certificate image to be readable.
+- Proportions that accommodate portrait or landscape certificates where possible.
+
+Use labels such as:
+
+Arabic:
+[مكان صورة الشهادة — تُضاف لاحقًا]
+
+English:
+[Certificate Image Placeholder — Insert Later]
+
+Add a concise title and certificate name below or above each placeholder.
+
+### Certificate categories to accommodate
+
+1. Bachelor's degree in Physical Education.
+2. Integrated English Diploma.
+3. General English Course — Level 4.
+4. Word Processing — WinWord 2010.
+5. PowerPoint and Excel 2010.
+6. IT and Internet.
+7. Windows 7.
+8. Introduction to Access 2010.
+9. Grammar.
+10. Conversation.
+11. Translation.
+12. Phonetics.
+13. Free Discussion.
+14. Vocabulary.
+15. American Accent.
+16. Role Play.
+17. Educational Expert credential, only if appropriate and verified.
+18. English Translator card, only if its meaning and validity are confirmed.
+19. Educational Consultant card, only if its meaning and validity are confirmed.
+20. Sports certificates, only if relevant.
+
+Do not force every certificate onto the main CV.
+
+In the appendix, related certificates may share a page, but each certificate must have its own clearly identified image placeholder unless the layout explicitly groups several small certificates in one designated area.
+
+Do not create 20 unnecessary pages. Use a practical layout, such as two to four certificate placeholders per page, depending on certificate orientation and readability.
+
+For certificates that have not been verified, label the placeholder as optional or exclude it.
+
+Do not invent certificate scans, signatures, stamps, logos, seals, or certificate details.
+
+### Image insertion requirements
+
+- Use editable Word documents with real, replaceable image placeholders.
+- If possible, provide a corresponding PDF appendix with blank spaces for printing or later annotation.
+- Do not claim that blank placeholders contain actual certificate images.
+- Do not create fake images or AI-generated imitations of official documents.
+- Preserve the legibility of the inserted certificates.
+- Allow images to be replaced without breaking the page layout.
+- Use a professional, consistent layout and restrained colors.
+
+### Important ATS distinction
+
+The certificate appendix is a supplementary portfolio, not a replacement for the text-based CV.
+
+If an employer uses an ATS portal, submit the clean ATS CV without the certificate gallery unless the employer specifically requests supporting documents.
+
+If an employer accepts a direct email application or a complete application portfolio, the candidate may provide the CV together with the certificate appendix.
+
+---
+
+## 13. ATS FORMATTING
+
+The main CV must follow these rules:
+
+- Single-column structure.
+- Standard section headings.
+- No tables or multi-column layouts in the ATS CV.
+- No icons, photographs, skill bars, charts, or decorative graphics in the ATS CV.
+- No critical information in headers or footers.
+- Standard fonts and readable font sizes.
+- Consistent dates.
+- Clear bullet points.
+- Relevant keywords used naturally.
+- Selectable, machine-readable text.
+- No hidden keywords or keyword stuffing.
+- No invented achievements.
+- No excessive decoration.
+
+The certificate appendix may use outlined image placeholders, but the ATS CV must remain a separate, simple document.
+
+Prefer one page for the main CV when possible. Use a second page if necessary for readability.
+
+---
+
+## 14. ARABIC AND ENGLISH VERSIONS
+
+Create two complete language versions with consistent verified facts.
+
+### Arabic version
+
+Use formal Modern Standard Arabic.
+
+Use correct right-to-left paragraph direction.
+
+Use clear Arabic section headings and professional tourism-sector terminology.
+
+### English version
+
+Use natural professional English.
+
+Use left-to-right formatting.
+
+Use standard English CV headings.
+
+Do not translate literally when it produces awkward wording.
+
+Keep the candidate's name, phone number, email, dates, university, degree, and certificate details consistent in both versions.
+
+Do not invent official English institution names where none have been verified.
+
+---
+
+## 15. DOCUMENT DELIVERABLES
+
+If file generation is available, create these separate files:
+
+1. Mohamed_AbdelAwad_Tourism_CV_AR.docx
+2. Mohamed_AbdelAwad_Tourism_CV_EN.docx
+3. Mohamed_AbdelAwad_Tourism_CV_AR.pdf
+4. Mohamed_AbdelAwad_Tourism_CV_EN.pdf
+5. Mohamed_AbdelAwad_Certificate_Appendix_AR.docx
+6. Mohamed_AbdelAwad_Certificate_Appendix_EN.docx
+7. Mohamed_AbdelAwad_Certificate_Appendix_AR.pdf
+8. Mohamed_AbdelAwad_Certificate_Appendix_EN.pdf
+
+The main CV files must be ATS-friendly.
+
+The certificate appendices must contain blank, editable certificate-image placeholders.
+
+Verify that all generated files actually exist and open correctly.
+
+Check the PDFs for text overflow, incorrect Arabic direction, broken fonts, and layout defects.
+
+Do not claim to have created, inspected, or verified any file unless you actually have.
+
+If file generation is unavailable, provide the full content and a precise, practical layout specification for creating the files in Word.
+
+---
+
+## 16. FINAL REVIEW CHECKLIST
+
+Before delivering the CVs, verify:
+
+- Correct candidate name and contact details.
+- Accurate university degree and graduation year.
+- No invented tourism experience.
+- No invented tour guide license.
+- No unverified English fluency claims.
+- No invented archaeological or historical expertise.
+- Correct certificate titles and dates.
+- No national ID, military number, or unnecessary certificate IDs.
+- Uncertain professional cards are excluded unless verified.
+- Main CV remains ATS-friendly.
+- Certificate placeholders are separate and replaceable.
+- Arabic and English versions contain consistent facts.
+- The final files are readable, editable, and professionally presented.
+
+---
+
+## 17. FINAL RESPONSE
+
+Deliver the Arabic and English CVs first, followed by the Arabic and English certificate appendices.
+
+Provide working download links for all files that were actually generated.
+
+Briefly explain which certificate placeholders are included and which uncertain credentials were excluded pending verification.
+
+Do not include lengthy explanations or generic CV advice in the final response.
+
+Start reviewing the supplied information now. Ask only essential clarification questions, and never invent missing facts to complete the CV.
